@@ -1,0 +1,10 @@
+*.html
+*.pdf
+*.txt
+*.xlsx
+*.pptx
+*.docx
+
+.ipynb_checkpoints
+old
+~historical
