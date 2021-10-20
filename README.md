@@ -5,6 +5,8 @@ Welcome to my Data Science Portfolio, where I showcase my work on past projects.
 The projects all deal with exploring datasets and developing machine learning models, using Jupyter Notebooks and Python. The following major Data Science and Machine Learning Python libraries are used:
 * numpy
 * pandas
+* matplotlib
+* seaborn
 * scikit-learn
 * keras
 * tensorflow
