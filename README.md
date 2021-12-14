@@ -13,6 +13,10 @@ The projects all deal with exploring datasets and developing machine learning mo
 
 In the sections that follow, a brief description of the contents of each folder in this repository will be given, to help the reader navigate to whatever projects may be of interest.
 
+## Bank Marketing
+
+Jupyter Notebook containing code to develop a machine learning model to the success of a bank marketing campaign.
+
 ## Boston Housing Regression
 
 Jupyter Notebook containing code to develop a machine learning model to predict the price of a home. Along with the Iris dataset (see below) the Boston Housing dataset is a very popular machine learning project for "beginners."
