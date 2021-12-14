@@ -15,7 +15,7 @@ In the sections that follow, a brief description of the contents of each folder 
 
 ## Bank Marketing
 
-Jupyter Notebook containing code to develop a machine learning model to the success of a bank marketing campaign.
+Jupyter Notebook containing code to develop a machine learning model to predict the success of a bank marketing campaign.
 
 ## Boston Housing Regression
 
