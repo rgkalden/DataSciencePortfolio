@@ -59,14 +59,3 @@ Jupyter Notebook showing the development of a machine learning model that can pr
 
 Jupyter Notebook showing the development of a machine learning model that can predict whether a passenger aboard the Titanic would have survived the disaster or not.
 
-## Process Project
-
-### Modelling Distillation
-
-Project demonstrating how machine learning can be used to model part of an industrial distillation process.
-
-### Reactor Model
-
-Part 1: Project demonstrating how machine learning can be used to model the relationship between the process conditions and the overall yield of a chemical reactor.
-
-Part 2: Project exploring how machine learning can improve process safety in chemical reactors by predicting if a reactor runaway will occur.
